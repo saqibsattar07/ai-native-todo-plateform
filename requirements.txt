@@ -1,0 +1,2 @@
+# Python 3.13+ requirements for Todo Console Application
+# No external dependencies required - using standard library only
